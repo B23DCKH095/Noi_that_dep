@@ -4,7 +4,7 @@ USE `dataweb`;
 --
 -- Host: 127.0.0.1    Database: dataweb
 -- ------------------------------------------------------
--- Server version	8.0.43-0ubuntu0.24.04.2
+-- Server version	8.0.43-0ubuntu
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
